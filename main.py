@@ -13,7 +13,6 @@ import os
 import logging
 from logs import logger
 from config import load_settings
-from menu import main_menu
 
 
 # Load environment variables
