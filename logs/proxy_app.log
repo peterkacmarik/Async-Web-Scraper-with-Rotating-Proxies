@@ -1,0 +1,110 @@
+2024-05-18 12:46:22,407 - ERROR - Proxy http://51.20.19.159:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 12:46:22,523 - ERROR - Proxy http://104.222.32.110:80 failed: 404, message='Not Found', url=URL('http://104.222.32.110:80')
+2024-05-18 12:46:22,575 - ERROR - Proxy http://18.223.25.15:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 12:46:22,597 - ERROR - Proxy http://12.186.205.120:80 failed: 400, message='Bad Request', url=URL('http://12.186.205.120:80')
+2024-05-18 12:46:22,789 - ERROR - Proxy http://103.130.145.169:80 failed: 400, message='Bad Request', url=URL('http://103.130.145.169:80')
+2024-05-18 12:46:23,039 - ERROR - Proxy http://37.27.29.181:80 failed: 400, message='Bad Request', url=URL('http://37.27.29.181:80')
+2024-05-18 12:46:23,173 - ERROR - Proxy http://35.72.118.126:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 12:46:24,232 - INFO - Proxy http://20.24.43.214:80 working
+2024-05-18 12:46:25,936 - ERROR - Proxy http://154.208.10.126:80 failed: 400, message='Bad Request', url=URL('http://154.208.10.126:80')
+2024-05-18 12:46:30,502 - INFO - Proxy http://45.188.164.48:999 working
+2024-05-18 17:41:03,541 - ERROR - Proxy http://13.37.59.99:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:41:04,090 - ERROR - Proxy http://46.51.249.135:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:41:04,158 - ERROR - Proxy http://3.37.125.76:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:41:05,229 - ERROR - Proxy http://3.70.179.165:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:41:05,836 - ERROR - Proxy http://51.89.14.70:80 failed: Cannot connect to host 51.89.14.70:80 ssl:default [The remote computer refused the network connection]
+2024-05-18 17:41:14,169 - ERROR - Proxy http://209.146.104.56:80 failed: 
+2024-05-18 17:41:14,169 - ERROR - Proxy http://103.110.36.18:82 failed: 
+2024-05-18 17:41:14,172 - ERROR - Proxy http://3.10.175.104:4000 failed: 
+2024-05-18 17:41:14,172 - ERROR - Proxy http://54.64.207.194:13 failed: 
+2024-05-18 17:41:14,172 - ERROR - Proxy http://102.222.252.182:9999 failed: 
+2024-05-18 17:42:03,650 - ERROR - Proxy http://13.37.59.99:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:04,071 - ERROR - Proxy http://3.212.148.199:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:04,100 - ERROR - Proxy http://3.12.144.146:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:04,183 - ERROR - Proxy http://54.67.125.45:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:04,199 - ERROR - Proxy http://13.56.192.187:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:04,436 - ERROR - Proxy http://54.248.238.110:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:04,522 - ERROR - Proxy http://123.30.154.171:7777 failed: 400, message='Bad Request', url=URL('http://123.30.154.171:7777')
+2024-05-18 17:42:04,934 - INFO - Proxy http://35.185.196.38:3128 working
+2024-05-18 17:42:07,943 - ERROR - Proxy http://216.137.184.253:80 failed: 500, message='Internal Server Error', url=URL('http://216.137.184.253:80')
+2024-05-18 17:42:14,173 - ERROR - Proxy http://103.110.36.18:82 failed: 
+2024-05-18 17:42:17,110 - ERROR - Proxy http://13.37.59.99:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:17,268 - ERROR - Proxy http://3.212.148.199:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:17,299 - ERROR - Proxy http://3.12.144.146:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:17,381 - ERROR - Proxy http://54.67.125.45:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:17,390 - ERROR - Proxy http://13.56.192.187:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:17,637 - ERROR - Proxy http://54.248.238.110:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:42:17,712 - ERROR - Proxy http://123.30.154.171:7777 failed: 400, message='Bad Request', url=URL('http://123.30.154.171:7777')
+2024-05-18 17:42:18,103 - INFO - Proxy http://35.185.196.38:3128 working
+2024-05-18 17:42:27,177 - ERROR - Proxy http://103.110.36.18:82 failed: 
+2024-05-18 17:42:27,177 - ERROR - Proxy http://216.137.184.253:80 failed: 
+2024-05-18 17:44:08,768 - ERROR - Proxy http://3.122.84.99:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:44:08,815 - ERROR - Proxy http://99.80.11.54:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:44:09,043 - ERROR - Proxy http://162.223.94.166:80 failed: 400, message='Bad Request', url=URL('http://162.223.94.166:80')
+2024-05-18 17:44:09,108 - ERROR - Proxy http://103.130.145.169:80 failed: 400, message='Bad Request', url=URL('http://103.130.145.169:80')
+2024-05-18 17:44:09,931 - INFO - Proxy http://35.185.196.38:3128 working
+2024-05-18 17:44:10,582 - ERROR - Proxy http://51.89.14.70:80 failed: Cannot connect to host 51.89.14.70:80 ssl:default [The remote computer refused the network connection]
+2024-05-18 17:44:10,763 - INFO - Proxy http://20.210.113.32:8123 working
+2024-05-18 17:44:11,475 - ERROR - Proxy http://3.110.154.103:8800 failed: Cannot connect to host 3.110.154.103:8800 ssl:default [The remote computer refused the network connection]
+2024-05-18 17:44:19,175 - ERROR - Proxy http://18.206.158.17:3128 failed: 
+2024-05-18 17:44:19,175 - ERROR - Proxy http://3.69.49.95:9080 failed: 
+2024-05-18 17:44:22,029 - ERROR - Proxy http://3.122.84.99:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:44:22,083 - ERROR - Proxy http://99.80.11.54:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:44:22,330 - ERROR - Proxy http://103.130.145.169:80 failed: 400, message='Bad Request', url=URL('http://103.130.145.169:80')
+2024-05-18 17:44:22,968 - ERROR - Proxy http://162.223.94.166:80 failed: 400, message='Bad Request', url=URL('http://162.223.94.166:80')
+2024-05-18 17:44:23,037 - INFO - Proxy http://35.185.196.38:3128 working
+2024-05-18 17:44:24,001 - INFO - Proxy http://20.210.113.32:8123 working
+2024-05-18 17:44:24,112 - ERROR - Proxy http://51.89.14.70:80 failed: Cannot connect to host 51.89.14.70:80 ssl:default [The remote computer refused the network connection]
+2024-05-18 17:44:24,772 - ERROR - Proxy http://3.110.154.103:8800 failed: Cannot connect to host 3.110.154.103:8800 ssl:default [The remote computer refused the network connection]
+2024-05-18 17:44:32,166 - ERROR - Proxy http://18.206.158.17:3128 failed: 
+2024-05-18 17:44:32,166 - ERROR - Proxy http://3.69.49.95:9080 failed: 
+2024-05-18 17:51:31,311 - ERROR - Proxy http://51.210.19.141:80 failed: 404, message='Not Found', url=URL('http://51.210.19.141:80')
+2024-05-18 17:51:31,404 - ERROR - Proxy http://51.16.199.206:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:51:31,672 - ERROR - Proxy http://95.217.178.175:80 failed: 400, message='Bad Request', url=URL('http://95.217.178.175:80')
+2024-05-18 17:51:32,052 - INFO - Proxy http://35.185.196.38:3128 working
+2024-05-18 17:51:35,689 - ERROR - Proxy http://154.65.39.7:80 failed: 500, message='Internal Server Error', url=URL('http://154.65.39.7:80')
+2024-05-18 17:51:41,174 - ERROR - Proxy http://93.177.67.178:80 failed: 
+2024-05-18 17:51:41,174 - ERROR - Proxy http://101.47.4.29:6066 failed: 
+2024-05-18 17:51:41,174 - ERROR - Proxy http://45.43.32.228:80 failed: 
+2024-05-18 17:51:41,174 - ERROR - Proxy http://103.105.196.98:80 failed: 
+2024-05-18 17:51:41,174 - ERROR - Proxy http://3.10.175.104:4000 failed: 
+2024-05-18 17:51:47,160 - ERROR - Proxy http://51.210.19.141:80 failed: 404, message='Not Found', url=URL('http://51.210.19.141:80')
+2024-05-18 17:51:47,255 - ERROR - Proxy http://51.16.199.206:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 17:51:47,405 - ERROR - Proxy http://95.217.178.175:80 failed: 400, message='Bad Request', url=URL('http://95.217.178.175:80')
+2024-05-18 17:51:48,602 - INFO - Proxy http://35.185.196.38:3128 working
+2024-05-18 17:51:51,736 - ERROR - Proxy http://154.65.39.7:80 failed: 500, message='Internal Server Error', url=URL('http://154.65.39.7:80')
+2024-05-18 17:51:57,163 - ERROR - Proxy http://93.177.67.178:80 failed: 
+2024-05-18 17:51:57,163 - ERROR - Proxy http://101.47.4.29:6066 failed: 
+2024-05-18 17:51:57,164 - ERROR - Proxy http://45.43.32.228:80 failed: 
+2024-05-18 17:51:57,165 - ERROR - Proxy http://103.105.196.98:80 failed: 
+2024-05-18 17:51:57,166 - ERROR - Proxy http://3.10.175.104:4000 failed: 
+2024-05-18 18:26:48,966 - ERROR - Proxy http://13.56.192.187:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:26:49,519 - ERROR - Proxy http://47.56.110.204:8989 failed: Server disconnected
+2024-05-18 18:26:50,219 - ERROR - Proxy http://133.18.234.13:80 failed: 400, message='Bad Request', url=URL('http://133.18.234.13:80')
+2024-05-18 18:26:50,740 - ERROR - Proxy http://51.89.14.70:80 failed: Cannot connect to host 51.89.14.70:80 ssl:default [The remote computer refused the network connection]
+2024-05-18 18:26:53,239 - INFO - Proxy http://51.145.176.250:8080 working
+2024-05-18 18:26:59,184 - ERROR - Proxy http://3.10.175.104:4000 failed: 
+2024-05-18 18:26:59,184 - ERROR - Proxy http://35.180.64.204:16877 failed: 
+2024-05-18 18:26:59,184 - ERROR - Proxy http://102.68.128.211:8080 failed: 
+2024-05-18 18:26:59,184 - ERROR - Proxy http://209.146.104.56:80 failed: 
+2024-05-18 18:26:59,184 - ERROR - Proxy http://178.128.200.87:80 failed: 
+2024-05-18 18:27:36,924 - ERROR - Proxy http://13.37.59.99:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:36,964 - ERROR - Proxy http://99.80.11.54:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:37,181 - ERROR - Proxy http://3.123.150.192:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:37,223 - ERROR - Proxy http://52.16.232.164:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:40,996 - ERROR - Proxy http://3.70.179.165:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:47,170 - ERROR - Proxy http://51.16.199.206:3128 failed: 
+2024-05-18 18:27:47,170 - ERROR - Proxy http://3.77.153.38:80 failed: 
+2024-05-18 18:27:47,170 - ERROR - Proxy http://103.163.51.254:80 failed: 
+2024-05-18 18:27:47,170 - ERROR - Proxy http://37.27.82.72:80 failed: 
+2024-05-18 18:27:47,170 - ERROR - Proxy http://154.65.39.7:80 failed: 
+2024-05-18 18:27:52,110 - ERROR - Proxy http://3.70.179.165:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:52,113 - ERROR - Proxy http://52.16.232.164:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:52,315 - ERROR - Proxy http://13.37.89.201:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:52,355 - ERROR - Proxy http://51.20.19.159:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:52,482 - ERROR - Proxy http://13.59.156.167:3128 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:52,520 - ERROR - Proxy http://116.203.28.43:80 failed: 400, message='Bad Request', url=URL('http://116.203.28.43:80')
+2024-05-18 18:27:52,602 - ERROR - Proxy http://54.248.238.110:80 failed: Cannot connect to host httpbin.org:443 ssl:default [None]
+2024-05-18 18:27:52,924 - ERROR - Proxy http://173.213.71.6:80 failed: 400, message='Bad Request', url=URL('http://173.213.71.6:80')
+2024-05-18 18:28:02,174 - ERROR - Proxy http://102.68.128.211:8080 failed: 
+2024-05-18 18:28:02,175 - ERROR - Proxy http://54.64.207.194:13 failed: 

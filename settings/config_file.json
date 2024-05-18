@@ -1,0 +1,81 @@
+{
+  "scraping_settings": {
+    "base_url": "https://www.trhknih.cz",
+    "base_url_nabidky": "https://www.trhknih.cz/nabidky?page=",
+    "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15",
+        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 Safari/604.1",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15"
+    ]
+  },
+
+  "proxy_settings": {
+    "use_proxy": true,
+    "rotate_proxies": true,
+    "proxy_list1": "async-scrape-trhknih/proxy/proxy_scraper_list.csv",
+    "proxy_list2": "async-scrape-trhknih/proxy/proxy_list.csv",
+    "proxy_list3": "async-scrape-trhknih/proxy/available_proxy.csv",
+    "proxy_list4": "async-scrape-trhknih/proxy/http_proxies.csv",
+    "proxy_check_url": "https://httpbin.org/ip",
+    "proxy_check_url2": "https://ipapi.co/json/",
+    "proxy_check_url3": "https://httpbin.org/get",
+    "proxy_check_url_ip": "https://api.ipify.org?format=json",
+    "proxy_check_url_ip2": "https://ip.seeip.org/json",
+    "proxy_check_url_ip3": "https://ipinfo.io/json",
+    "proxy_check_url_ip4": "https://api.myip.com"
+  },
+
+  "logging_settings": {
+    "log_to_file": true,
+    "log_level": "INFO",
+    "log_format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "log_dir": {
+      "log_dir_main": "async-scrape-trhknih/logs/main_app.log",
+      "log_dir_scraping": "async-scrape-trhknih/logs/scraper_app.log",
+      "log_dir_proxies": "async-scrape-trhknih/logs/proxy_app.log"
+    }
+  },
+
+  "data_storage": {
+  "use_database": true,
+  "database_type": "sqlite",
+  "database_path": "cesta_k_databaze.db"
+  },
+
+  "notification_settings": {
+    "send_email_notifications": true,
+    "email": {
+      "smtp_server": "smtp.example.com",
+      "smtp_port": 587,
+      "email_sender": "notifikacie@example.com",
+      "email_recipient": "pouzivatel@example.com"
+    }
+  },
+  "scheduler_settings": {
+    "enable_scheduler": true,
+    "run_interval": {
+      "hours": 24
+    }
+  },
+  "user_interface": {
+    "enable_web_interface": true,
+    "web_port": 8080
+  },
+  "advanced_settings": {
+    "custom_user_scripts": [
+      "cesta_k_skriptu1.py",
+      "cesta_k_skriptu2.py"
+    ],
+    "machine_learning": {
+      "use_ml_models": false,
+      "model_path": "cesta_k_modelu.ml"
+    }
+  }
+}

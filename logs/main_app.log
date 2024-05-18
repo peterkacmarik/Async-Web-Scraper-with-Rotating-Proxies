@@ -1,0 +1,221 @@
+2024-05-18 12:46:30,502 - INFO - Found 2 working proxies.
+2024-05-18 12:46:30,919 - ERROR - Error: Request failed: 403, message='Forbidden', url=URL('http://20.24.43.214:80')
+2024-05-18 12:46:41,175 - ERROR - Error: Request failed: 
+2024-05-18 12:46:41,176 - INFO - Total number of pages: 2
+2024-05-18 12:46:41,177 - INFO - Elapsed time for responses: 0:00:19.122260 seconds
+2024-05-18 17:41:14,172 - INFO - No working proxies found.
+2024-05-18 17:41:14,176 - INFO - Elapsed time for responses: 0:00:10.962502 seconds
+2024-05-18 17:42:14,174 - INFO - Found 1 working proxies.
+2024-05-18 17:42:16,948 - INFO - Total number of pages: 2
+2024-05-18 17:42:16,949 - INFO - Elapsed time for responses: 0:00:13.379102 seconds
+2024-05-18 17:42:17,022 - INFO - Elapsed time for urls: 0:00:00.066224 seconds
+2024-05-18 17:42:27,177 - INFO - Found 1 working proxies.
+2024-05-18 17:42:29,778 - INFO - Total number of pages: 60
+2024-05-18 17:44:19,177 - INFO - Found 2 working proxies.
+2024-05-18 17:44:21,918 - INFO - Total number of pages: 2
+2024-05-18 17:44:21,918 - INFO - Elapsed time for responses: 0:00:13.473249 seconds
+2024-05-18 17:44:21,968 - INFO - Elapsed time for urls: 0:00:00.050519 seconds
+2024-05-18 17:44:32,166 - INFO - Found 2 working proxies.
+2024-05-18 17:44:32,699 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:32,699 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:32,714 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:32,716 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:33,717 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:33,726 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:33,727 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:33,727 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:35,737 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:35,737 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:35,737 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:35,737 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:39,743 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:39,748 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:39,757 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:39,758 - ERROR - Error: Request failed: 403 Forbidden
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,174 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,187 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,187 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,188 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,189 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,190 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,191 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,192 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,193 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,194 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,195 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,197 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,199 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,204 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,205 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,207 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,208 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,208 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,210 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,210 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,211 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,212 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,212 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,215 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,215 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,216 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,217 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,218 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,219 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,219 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,220 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,221 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,221 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,222 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,222 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,223 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,224 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,224 - ERROR - Error: Request failed: 
+2024-05-18 17:44:42,225 - INFO - Total number of pages: 60
+2024-05-18 17:51:41,174 - INFO - Found 1 working proxies.
+2024-05-18 17:51:41,174 - INFO - Requesting: https://www.trhknih.cz/nabidky?page=1
+2024-05-18 17:51:41,194 - INFO - Requesting: https://www.trhknih.cz/nabidky?page=2
+2024-05-18 17:51:42,862 - INFO - Request successful: https://www.trhknih.cz/nabidky?page=2 - 200
+2024-05-18 17:51:45,954 - INFO - Request successful: https://www.trhknih.cz/nabidky?page=1 - 200
+2024-05-18 17:51:47,041 - INFO - Total number of pages: 2
+2024-05-18 17:51:47,047 - INFO - Elapsed time for responses: 0:00:16.069108 seconds
+2024-05-18 17:51:47,080 - INFO - Elapsed time for urls: 0:00:00.032927 seconds
+2024-05-18 17:51:57,167 - INFO - Found 1 working proxies.
+2024-05-18 17:51:57,168 - INFO - Requesting: https://www.trhknih.cz/kniha/by67h
+2024-05-18 17:51:57,169 - INFO - Requesting: https://www.trhknih.cz/kniha/22rvx3
+2024-05-18 17:51:57,170 - INFO - Requesting: https://www.trhknih.cz/kniha/2kkwlk
+2024-05-18 17:51:57,171 - INFO - Requesting: https://www.trhknih.cz/kniha/mjeil
+2024-05-18 17:51:57,172 - INFO - Requesting: https://www.trhknih.cz/kniha/294cyu
+2024-05-18 17:51:57,173 - INFO - Requesting: https://www.trhknih.cz/kniha/yj8c3
+2024-05-18 17:51:57,174 - INFO - Requesting: https://www.trhknih.cz/kniha/2001s2
+2024-05-18 17:51:57,176 - INFO - Requesting: https://www.trhknih.cz/kniha/2rtmzk
+2024-05-18 17:51:57,177 - INFO - Requesting: https://www.trhknih.cz/kniha/2vlmev
+2024-05-18 17:51:57,179 - INFO - Requesting: https://www.trhknih.cz/kniha/2qgz5u
+2024-05-18 17:51:57,181 - INFO - Requesting: https://www.trhknih.cz/kniha/zznnh
+2024-05-18 17:51:57,182 - INFO - Requesting: https://www.trhknih.cz/kniha/1c49c8
+2024-05-18 17:51:57,184 - INFO - Requesting: https://www.trhknih.cz/kniha/2zdhsy
+2024-05-18 17:51:57,185 - INFO - Requesting: https://www.trhknih.cz/kniha/pkqc1
+2024-05-18 17:51:57,186 - INFO - Requesting: https://www.trhknih.cz/kniha/24q2j4
+2024-05-18 17:51:57,187 - INFO - Requesting: https://www.trhknih.cz/kniha/1544od
+2024-05-18 17:51:57,188 - INFO - Requesting: https://www.trhknih.cz/kniha/8aoj1
+2024-05-18 17:51:57,189 - INFO - Requesting: https://www.trhknih.cz/kniha/2h9osl
+2024-05-18 17:51:57,190 - INFO - Requesting: https://www.trhknih.cz/kniha/2010mv
+2024-05-18 17:51:57,192 - INFO - Requesting: https://www.trhknih.cz/kniha/2r1a1t
+2024-05-18 17:51:57,193 - INFO - Requesting: https://www.trhknih.cz/kniha/22h58y
+2024-05-18 17:51:57,194 - INFO - Requesting: https://www.trhknih.cz/kniha/1jdkmg
+2024-05-18 17:51:57,195 - INFO - Requesting: https://www.trhknih.cz/kniha/2jffpn
+2024-05-18 17:51:57,197 - INFO - Requesting: https://www.trhknih.cz/kniha/1r4tg7
+2024-05-18 17:51:57,197 - INFO - Requesting: https://www.trhknih.cz/kniha/ug5wl
+2024-05-18 17:51:57,199 - INFO - Requesting: https://www.trhknih.cz/kniha/3eyy9r
+2024-05-18 17:51:57,199 - INFO - Requesting: https://www.trhknih.cz/kniha/2l7fl6
+2024-05-18 17:51:57,201 - INFO - Requesting: https://www.trhknih.cz/kniha/26oy9f
+2024-05-18 17:51:57,202 - INFO - Requesting: https://www.trhknih.cz/kniha/rs
+2024-05-18 17:51:57,203 - INFO - Requesting: https://www.trhknih.cz/kniha/ki5ha
+2024-05-18 17:51:57,204 - INFO - Requesting: https://www.trhknih.cz/kniha/98zb3d
+2024-05-18 17:51:57,205 - INFO - Requesting: https://www.trhknih.cz/kniha/3uyw4d
+2024-05-18 17:51:57,206 - INFO - Requesting: https://www.trhknih.cz/kniha/5g7fhu
+2024-05-18 17:51:57,207 - INFO - Requesting: https://www.trhknih.cz/kniha/5kkmwg
+2024-05-18 17:51:57,207 - INFO - Requesting: https://www.trhknih.cz/kniha/4bin4t
+2024-05-18 17:51:57,209 - INFO - Requesting: https://www.trhknih.cz/kniha/5p9r6u
+2024-05-18 17:51:57,210 - INFO - Requesting: https://www.trhknih.cz/kniha/6oqm3d
+2024-05-18 17:51:57,210 - INFO - Requesting: https://www.trhknih.cz/kniha/72td5e
+2024-05-18 17:51:57,211 - INFO - Requesting: https://www.trhknih.cz/kniha/5nql9f
+2024-05-18 17:51:57,212 - INFO - Requesting: https://www.trhknih.cz/kniha/51524o
+2024-05-18 17:51:57,213 - INFO - Requesting: https://www.trhknih.cz/kniha/6964oi
+2024-05-18 17:51:57,214 - INFO - Requesting: https://www.trhknih.cz/kniha/57i9cv
+2024-05-18 17:51:57,214 - INFO - Requesting: https://www.trhknih.cz/kniha/74sbpp
+2024-05-18 17:51:57,215 - INFO - Requesting: https://www.trhknih.cz/kniha/79af4w
+2024-05-18 17:51:57,216 - INFO - Requesting: https://www.trhknih.cz/kniha/641d8r
+2024-05-18 17:51:57,216 - INFO - Requesting: https://www.trhknih.cz/kniha/7r25ns
+2024-05-18 17:51:57,217 - INFO - Requesting: https://www.trhknih.cz/kniha/8ngsin
+2024-05-18 17:51:57,218 - INFO - Requesting: https://www.trhknih.cz/kniha/66kjf1
+2024-05-18 17:51:57,219 - INFO - Requesting: https://www.trhknih.cz/kniha/72okf3
+2024-05-18 17:51:57,220 - INFO - Requesting: https://www.trhknih.cz/kniha/94u366
+2024-05-18 17:51:57,221 - INFO - Requesting: https://www.trhknih.cz/kniha/71unrn
+2024-05-18 17:51:57,222 - INFO - Requesting: https://www.trhknih.cz/kniha/76e7xq
+2024-05-18 17:51:57,223 - INFO - Requesting: https://www.trhknih.cz/kniha/94p3uc
+2024-05-18 17:51:57,223 - INFO - Requesting: https://www.trhknih.cz/kniha/8roypr
+2024-05-18 17:51:57,224 - INFO - Requesting: https://www.trhknih.cz/kniha/642ekw
+2024-05-18 17:51:57,225 - INFO - Requesting: https://www.trhknih.cz/kniha/7rssic
+2024-05-18 17:51:57,226 - INFO - Requesting: https://www.trhknih.cz/kniha/5st19d
+2024-05-18 17:51:57,226 - INFO - Requesting: https://www.trhknih.cz/kniha/6jckm5
+2024-05-18 17:51:57,227 - INFO - Requesting: https://www.trhknih.cz/kniha/71ins3
+2024-05-18 17:51:57,228 - INFO - Requesting: https://www.trhknih.cz/kniha/40ywc0
+2024-05-18 17:51:58,528 - INFO - Request successful: https://www.trhknih.cz/kniha/2qgz5u - 200
+2024-05-18 17:51:58,549 - INFO - Request successful: https://www.trhknih.cz/kniha/yj8c3 - 200
+2024-05-18 17:51:58,562 - INFO - Request successful: https://www.trhknih.cz/kniha/294cyu - 200
+2024-05-18 17:51:58,599 - INFO - Request successful: https://www.trhknih.cz/kniha/2001s2 - 200
+2024-05-18 17:51:58,653 - INFO - Request successful: https://www.trhknih.cz/kniha/2kkwlk - 200
+2024-05-18 17:51:58,955 - INFO - Request successful: https://www.trhknih.cz/kniha/2r1a1t - 200
+2024-05-18 17:51:59,139 - INFO - Request successful: https://www.trhknih.cz/kniha/1544od - 200
+2024-05-18 17:51:59,144 - INFO - Request successful: https://www.trhknih.cz/kniha/2vlmev - 200
+2024-05-18 17:51:59,227 - INFO - Request successful: https://www.trhknih.cz/kniha/zznnh - 200
+2024-05-18 17:51:59,312 - INFO - Request successful: https://www.trhknih.cz/kniha/6964oi - 200
+2024-05-18 17:51:59,345 - INFO - Request successful: https://www.trhknih.cz/kniha/by67h - 200
+2024-05-18 17:51:59,350 - INFO - Request successful: https://www.trhknih.cz/kniha/2h9osl - 200
+2024-05-18 17:51:59,479 - INFO - Request successful: https://www.trhknih.cz/kniha/3uyw4d - 200
+2024-05-18 17:51:59,487 - INFO - Request successful: https://www.trhknih.cz/kniha/5st19d - 200
+2024-05-18 17:51:59,490 - INFO - Request successful: https://www.trhknih.cz/kniha/8roypr - 200
+2024-05-18 17:51:59,511 - INFO - Request successful: https://www.trhknih.cz/kniha/51524o - 200
+2024-05-18 17:51:59,513 - INFO - Request successful: https://www.trhknih.cz/kniha/3eyy9r - 200
+2024-05-18 17:51:59,516 - INFO - Request successful: https://www.trhknih.cz/kniha/642ekw - 200
+2024-05-18 17:51:59,528 - INFO - Request successful: https://www.trhknih.cz/kniha/79af4w - 200
+2024-05-18 17:51:59,541 - INFO - Request successful: https://www.trhknih.cz/kniha/8ngsin - 200
+2024-05-18 17:51:59,543 - INFO - Request successful: https://www.trhknih.cz/kniha/94u366 - 200
+2024-05-18 17:51:59,552 - INFO - Request successful: https://www.trhknih.cz/kniha/66kjf1 - 200
+2024-05-18 17:51:59,554 - INFO - Request successful: https://www.trhknih.cz/kniha/71unrn - 200
+2024-05-18 17:51:59,590 - INFO - Request successful: https://www.trhknih.cz/kniha/2rtmzk - 200
+2024-05-18 17:51:59,599 - INFO - Request successful: https://www.trhknih.cz/kniha/4bin4t - 200
+2024-05-18 17:51:59,630 - INFO - Request successful: https://www.trhknih.cz/kniha/1r4tg7 - 200
+2024-05-18 17:51:59,833 - INFO - Request successful: https://www.trhknih.cz/kniha/94p3uc - 200
+2024-05-18 17:51:59,882 - INFO - Request successful: https://www.trhknih.cz/kniha/7rssic - 200
+2024-05-18 17:51:59,884 - INFO - Request successful: https://www.trhknih.cz/kniha/76e7xq - 200
+2024-05-18 17:51:59,904 - INFO - Request successful: https://www.trhknih.cz/kniha/rs - 200
+2024-05-18 17:51:59,944 - INFO - Request successful: https://www.trhknih.cz/kniha/57i9cv - 200
+2024-05-18 17:52:00,009 - INFO - Request successful: https://www.trhknih.cz/kniha/6oqm3d - 200
+2024-05-18 17:52:00,027 - INFO - Request successful: https://www.trhknih.cz/kniha/8aoj1 - 200
+2024-05-18 17:52:00,043 - INFO - Request successful: https://www.trhknih.cz/kniha/1jdkmg - 200
+2024-05-18 17:52:00,055 - INFO - Request successful: https://www.trhknih.cz/kniha/98zb3d - 200
+2024-05-18 17:52:00,157 - INFO - Request successful: https://www.trhknih.cz/kniha/6jckm5 - 200
+2024-05-18 17:52:00,213 - INFO - Request successful: https://www.trhknih.cz/kniha/22h58y - 200
+2024-05-18 17:52:00,269 - INFO - Request successful: https://www.trhknih.cz/kniha/mjeil - 200
+2024-05-18 17:52:00,425 - INFO - Request successful: https://www.trhknih.cz/kniha/5g7fhu - 200
+2024-05-18 17:52:00,543 - INFO - Request successful: https://www.trhknih.cz/kniha/5nql9f - 200
+2024-05-18 17:52:00,558 - INFO - Request successful: https://www.trhknih.cz/kniha/26oy9f - 200
+2024-05-18 17:52:00,563 - INFO - Request successful: https://www.trhknih.cz/kniha/ki5ha - 200
+2024-05-18 17:52:00,569 - INFO - Request successful: https://www.trhknih.cz/kniha/ug5wl - 200
+2024-05-18 17:52:00,571 - INFO - Request successful: https://www.trhknih.cz/kniha/1c49c8 - 200
+2024-05-18 17:52:00,574 - INFO - Request successful: https://www.trhknih.cz/kniha/22rvx3 - 200
+2024-05-18 17:52:00,576 - INFO - Request successful: https://www.trhknih.cz/kniha/2010mv - 200
+2024-05-18 17:52:00,580 - INFO - Request successful: https://www.trhknih.cz/kniha/2jffpn - 200
+2024-05-18 17:52:00,582 - INFO - Request successful: https://www.trhknih.cz/kniha/72okf3 - 200
+2024-05-18 17:52:00,587 - INFO - Request successful: https://www.trhknih.cz/kniha/pkqc1 - 200
+2024-05-18 17:52:00,594 - INFO - Request successful: https://www.trhknih.cz/kniha/5p9r6u - 200
+2024-05-18 17:52:00,597 - INFO - Request successful: https://www.trhknih.cz/kniha/74sbpp - 200
+2024-05-18 17:52:00,614 - INFO - Request successful: https://www.trhknih.cz/kniha/2zdhsy - 200
+2024-05-18 17:52:00,628 - INFO - Request successful: https://www.trhknih.cz/kniha/5kkmwg - 200
+2024-05-18 17:52:00,636 - INFO - Request successful: https://www.trhknih.cz/kniha/40ywc0 - 200
+2024-05-18 17:52:00,669 - INFO - Request successful: https://www.trhknih.cz/kniha/24q2j4 - 200
+2024-05-18 17:52:00,672 - INFO - Request successful: https://www.trhknih.cz/kniha/72td5e - 200
+2024-05-18 17:52:01,553 - INFO - Request successful: https://www.trhknih.cz/kniha/2l7fl6 - 200
+2024-05-18 17:52:05,755 - INFO - Request successful: https://www.trhknih.cz/kniha/71ins3 - 200
+2024-05-18 17:52:05,765 - INFO - Request successful: https://www.trhknih.cz/kniha/7r25ns - 200
+2024-05-18 17:52:05,823 - INFO - Request successful: https://www.trhknih.cz/kniha/641d8r - 200
+2024-05-18 17:52:05,985 - INFO - Total number of pages: 60
+2024-05-18 17:52:10,020 - INFO - Elapsed time for details: 0:00:22.940462 seconds
+2024-05-18 18:26:59,184 - INFO - Found 1 working proxies.
+2024-05-18 18:26:59,184 - INFO - Requesting: https://www.trhknih.cz/nabidky?page=1
+2024-05-18 18:26:59,222 - INFO - Requesting: https://www.trhknih.cz/nabidky?page=2
+2024-05-18 18:27:10,171 - ERROR - Error: Request failed: 
+2024-05-18 18:27:10,172 - ERROR - Error: Request failed: 
+2024-05-18 18:27:10,173 - INFO - Total number of pages: 2
+2024-05-18 18:27:10,174 - INFO - Elapsed time for responses: 0:00:21.568718 seconds
+2024-05-18 18:27:47,170 - INFO - No working proxies found.
+2024-05-18 18:27:47,183 - INFO - Elapsed time for responses: 0:00:10.339062 seconds
+2024-05-18 18:28:02,176 - INFO - No working proxies found.
+2024-05-18 18:28:02,178 - INFO - Elapsed time for responses: 0:00:10.205308 seconds
